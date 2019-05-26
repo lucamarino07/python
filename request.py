@@ -53,5 +53,5 @@ if chose.lower() in ['y', 'yes', 'si', 's']:
     plt.plot(output_table['Data'], output_table['Valore'])
     plt.show()
 else:
-    print('Addio')
+    print('Addio!')
 
